@@ -63,6 +63,6 @@ Este dashboard permite explorar os dados de forma interativa, facilitando a iden
 
 ## 👤 Autor
 Jefferson Aloisio Ferreira Silva  
-Graduado em Sistemas de Informação  
+Bacharel em Sistemas de Informação  
 Pós‑Graduado em Ciência de Dados e Big Data Analytics  
 Certificação em IA – Escola de IA Estácio
