@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas com Python
+# 📊 Análise de Vendas com Python e Power BI
 
 ## 🎯 Objetivo
 Este projeto tem como objetivo analisar dados de vendas para identificar padrões
@@ -47,6 +47,17 @@ analise-vendas/
 │   └── vendas.csv
 ├── analise_vendas.ipynb
 └── README.md
+
+## 📊 Dashboard Power BI
+
+![Dashboard de Vendas](dashboard/dashboard.png)
+
+Este dashboard permite explorar os dados de forma interativa, facilitando a identificação de padrões e insights de negócio.
+
+📁 Arquivo Power BI disponível:
+[Download do Dashboard](dashboard/dashboard_vendas.pbix)
+
+
 
 ---
 
